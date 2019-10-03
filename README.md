@@ -1,6 +1,16 @@
 # Pizza-Ordering-Bot
 Pizza Ordering Bot for YoYo Pizza using Dialogflow, Firebase and Google Assistant
 
+1. Size of Pizza - Small, Medium/Regular, Large
+2. Type of Pizza - cheese, nonveg, veg, quatro formaggi, margherita
+3. Pizza toppings - ham, onion, salami, olive, sausage, pepperoni, anchovy, mushroom
+4. Pizza Count - eg. 1-10
+5. Add Name
+6. Add Address
+7. Add Phone
+8. Check Order Status
+
+
 Youtube Video Link - https://www.youtube.com/watch?v=ae3YiUMZT7g&feature=youtu.be
 
 1)
