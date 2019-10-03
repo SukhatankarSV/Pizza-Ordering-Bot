@@ -2,20 +2,19 @@
 Pizza Ordering Bot for YoYo Pizza using Dialogflow, Firebase and Google Assistant
 
 <pre>
-![alt text](https://raw.githubusercontent.com/SukhatankarSV/Pizza-Ordering-Bot/img/1.PNG)
+![1](https://user-images.githubusercontent.com/26857753/66107079-096a3800-e5dd-11e9-8c97-f3fa52bb46c2.PNG)
 
-![alt text](https://raw.githubusercontent.com/SukhatankarSV/Pizza-Ordering-Bot/img/2.PNG)
+![2](https://user-images.githubusercontent.com/26857753/66107142-24d54300-e5dd-11e9-81dd-df8ef518d3dc.PNG)
 
-![alt text](https://raw.githubusercontent.com/SukhatankarSV/Pizza-Ordering-Bot/img/3.PNG)
+![3](https://user-images.githubusercontent.com/26857753/66107143-24d54300-e5dd-11e9-8a50-09c274a9bd04.PNG)
 
-![alt text](https://raw.githubusercontent.com/SukhatankarSV/Pizza-Ordering-Bot/img/4.PNG)
+![4](https://user-images.githubusercontent.com/26857753/66107144-24d54300-e5dd-11e9-8886-6509a8f1d69e.PNG)
 
-![alt text](https://raw.githubusercontent.com/SukhatankarSV/Pizza-Ordering-Bot/img/5.PNG)
+![5](https://user-images.githubusercontent.com/26857753/66107145-256dd980-e5dd-11e9-904e-403d1a5c07c2.PNG)
 
-![alt text](https://raw.githubusercontent.com/SukhatankarSV/Pizza-Ordering-Bot/img/6.PNG)
+![6](https://user-images.githubusercontent.com/26857753/66107146-256dd980-e5dd-11e9-8889-41143a39f3f5.PNG)
 
-![alt text](https://raw.githubusercontent.com/SukhatankarSV/Pizza-Ordering-Bot/img/7.PNG)
+![7](https://user-images.githubusercontent.com/26857753/66107147-256dd980-e5dd-11e9-8127-bf010ff8c0e7.PNG)
 
-![alt text](https://raw.githubusercontent.com/SukhatankarSV/Pizza-Ordering-Bot/img/8.PNG)
-
+![8](https://user-images.githubusercontent.com/26857753/66107148-26067000-e5dd-11e9-9be7-0d05b9bae8e1.PNG)
 </pre>
