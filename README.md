@@ -1,6 +1,10 @@
 # Pizza-Ordering-Bot
 Pizza Ordering Bot for YoYo Pizza using Dialogflow, Firebase and Google Assistant
 
+Youtube Video Link - 
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ae3YiUMZT7g&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=ae3YiUMZT7g&feature=youtu.be)
+
 ![1](https://user-images.githubusercontent.com/26857753/66107079-096a3800-e5dd-11e9-8c97-f3fa52bb46c2.PNG)
 
 ![2](https://user-images.githubusercontent.com/26857753/66107142-24d54300-e5dd-11e9-81dd-df8ef518d3dc.PNG)
