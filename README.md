@@ -11,7 +11,8 @@ Pizza Ordering Bot for YoYo Pizza using Dialogflow, Firebase and Google Assistan
 8. Check Order Status
 
 
-Youtube Video Link - https://www.youtube.com/watch?v=ae3YiUMZT7g&feature=youtu.be
+Bot Link - https://bot.dialogflow.com/ca50f888-121f-4ef2-956e-47d7c51
+
 
 1)
 ![1](https://user-images.githubusercontent.com/26857753/66107079-096a3800-e5dd-11e9-8c97-f3fa52bb46c2.PNG)
@@ -29,7 +30,7 @@ Youtube Video Link - https://www.youtube.com/watch?v=ae3YiUMZT7g&feature=youtu.b
 ![5](https://user-images.githubusercontent.com/26857753/66107145-256dd980-e5dd-11e9-904e-403d1a5c07c2.PNG)
 
 6)
-![6](https://user-images.githubusercontent.com/26857753/66107146-256dd980-e5dd-11e9-8889-41143a39f3f5.PNG)
+![dbupdate](https://user-images.githubusercontent.com/26857753/66291703-1f8b3780-e900-11e9-9504-af7526fe705f.PNG)
 
 7)
 ![7](https://user-images.githubusercontent.com/26857753/66107147-256dd980-e5dd-11e9-8127-bf010ff8c0e7.PNG)
